@@ -1,6 +1,5 @@
 ---
 name: qa-test-sk-070
-description: QA test skill for version testing
+description: QA test skill v2
 ---
-# QA Test Skill
-Hello v1
+# v2
